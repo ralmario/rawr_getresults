@@ -1,8 +1,5 @@
 
-# Access Rawr.io API to Complete Details of an Excel file
-
-
-
+# Access Rawg.io API to Complete Details of an Excel File
 
 ## Overview
 **Version 1.0.0**
@@ -36,4 +33,3 @@ The code produces a spreadsheet containing the year released of the video games 
 ## Authors
 
 - [Ranxel Almario](https://www.github.com/ralmario)
-
